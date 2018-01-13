@@ -1,5 +1,7 @@
 # log4ui
 
+[![Join the chat at https://gitter.im/log4ui/Lobby](https://badges.gitter.im/log4ui/Lobby.svg)](https://gitter.im/log4ui/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![npm version](https://img.shields.io/npm/v/log4ui.svg?style=flat-square)](https://www.npmjs.com/package/log4ui)
 [![Build Status](https://travis-ci.org/Mamoru1234/log4ui.svg?branch=master)](https://travis-ci.org/Mamoru1234/log4ui)
 [![Coverage Status](https://coveralls.io/repos/github/Mamoru1234/log4ui/badge.svg?branch=master)](https://coveralls.io/github/Mamoru1234/log4ui?branch=master)
